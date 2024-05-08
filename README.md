@@ -5,7 +5,7 @@ Through this project we will discover how modules empower scalability and effici
 Attached to this repository is my Terraform project in the TERRAFORM-MODULES-MAIN-2 Repo
 
 terraform-modules folder which contains 
-1)(my ec2-ansible-docker directory from zhere ze zill be running our commands)
+1)(my ec2-ansible-docker directory from where we will be running our commands)
 
 2)Modules repo in which i have the VPC repo(with main.tf variables.tf outputs.tf e2.cf)
 
